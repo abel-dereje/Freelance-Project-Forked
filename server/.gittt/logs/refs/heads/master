@@ -1,0 +1,91 @@
+0000000000000000000000000000000000000000 8d8fd28011d4fd529fd5ff851df523cd5ec51e08 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702190188 +0300	clone: from https://github.com/abel-dereje/Freelance-portal.git
+8d8fd28011d4fd529fd5ff851df523cd5ec51e08 528582ab6ddc3ecf494b09cee581aafa1478460f fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702190431 +0300	commit: Adding Environment
+528582ab6ddc3ecf494b09cee581aafa1478460f 20e7c79cbad997c7eab7c44dab7269e493f7e136 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702328499 +0300	commit: Adding nodemons dependencies on the project
+20e7c79cbad997c7eab7c44dab7269e493f7e136 79bd4dac209eaed2aef337ddeee601e0f44e901e fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702408333 +0300	commit: Adding cookie-session and json web token
+79bd4dac209eaed2aef337ddeee601e0f44e901e 891128ea53b2bfbef707fc57fb06edc7c9b9d801 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702582079 +0300	commit: Creating routes under the Route folder
+891128ea53b2bfbef707fc57fb06edc7c9b9d801 a68324742edb004f1d8b3ba3e8627caec1005dc9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702582208 +0300	commit: Creating user controller
+a68324742edb004f1d8b3ba3e8627caec1005dc9 594362e1bdcfc3a45d191d6068ea4202906df87c fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702585775 +0300	commit: Creating the nodemon package
+594362e1bdcfc3a45d191d6068ea4202906df87c f2d02b8a1a5cae78a184d6b505432ecea99c0b7b fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702585920 +0300	commit: Changing the name of the file
+f2d02b8a1a5cae78a184d6b505432ecea99c0b7b f4056e65248fe7b259daf378a802ff13d7ad589d fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702586495 +0300	commit: Creating login route
+f4056e65248fe7b259daf378a802ff13d7ad589d 54afffe16e686fbf3b7953b1a5820f69fca06552 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1702586581 +0300	commit: Creating route on the server page
+54afffe16e686fbf3b7953b1a5820f69fca06552 4c620aa5f6217d9b16f9061185935296b8105db7 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703012117 +0300	commit: Creating .env file and installing mongodb packages
+4c620aa5f6217d9b16f9061185935296b8105db7 d6e54799adc628bc4b1c98709205f03207881f32 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703013891 +0300	commit: Creating database connection
+d6e54799adc628bc4b1c98709205f03207881f32 2e3c7d1fad223fa3245a56529b96533dac295939 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703014948 +0300	commit: Doing database connection on server and db page
+2e3c7d1fad223fa3245a56529b96533dac295939 64cc1ee7c1c9655b1774851519dbdae238f28a14 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703021535 +0300	commit: Creating Model
+64cc1ee7c1c9655b1774851519dbdae238f28a14 e7b0d969ce4ce9e373848cac7fe22876cedaa910 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703174664 +0300	commit: Debugging the error and finalizing the signup page
+e7b0d969ce4ce9e373848cac7fe22876cedaa910 b4fa63a2f773323643a3b8110bd70bc512ff9728 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703174700 +0300	commit: Creating the bcrypt file
+b4fa63a2f773323643a3b8110bd70bc512ff9728 4bff7776a1014b76b9913cdb5d60d4030d2540a7 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703174788 +0300	commit: Creating the bcrypt packages
+4bff7776a1014b76b9913cdb5d60d4030d2540a7 adab2db27b0903c0fc91c19324264e917f6bfe91 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703180075 +0300	commit: Connecting with database on cloud using driver
+adab2db27b0903c0fc91c19324264e917f6bfe91 9938cf6498c14c91d9131cccd47ffcb713e592c1 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703180590 +0300	commit: Adding middleware on server page
+9938cf6498c14c91d9131cccd47ffcb713e592c1 f06374de95326d9cd1b9514b8474924944f5d6c7 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703180706 +0300	commit: Creating signup function
+f06374de95326d9cd1b9514b8474924944f5d6c7 9437ad8b1f5d4772993e476c8fc65c09378d8cd6 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703180779 +0300	commit: Creating signup route
+9437ad8b1f5d4772993e476c8fc65c09378d8cd6 21d4cbafd1deb23368c6c246a92c06c5006ee47d fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703191159 +0300	commit: Code cleaning on the entry point
+21d4cbafd1deb23368c6c246a92c06c5006ee47d 6ba13195654c6082238da4f92b29f7a32505161b fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703195114 +0300	commit: Doing the logic of login page
+6ba13195654c6082238da4f92b29f7a32505161b f56bf95a4f4fe25694ad0e48cfcf87e84f193192 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703195145 +0300	commit: Creating login route on routing page
+f56bf95a4f4fe25694ad0e48cfcf87e84f193192 b80ae0ecf1a73905b3929d444d6834a22254c7f7 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703195535 +0300	commit: Creating logout rout on user route page
+b80ae0ecf1a73905b3929d444d6834a22254c7f7 a3f796ac0adfda21a87836068a2024cb7676213f fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703196038 +0300	commit: Adding the logic of logout function on the user controller page
+a3f796ac0adfda21a87836068a2024cb7676213f 7535ef4e1a677b1ffaba5e557bcdfa042566fd47 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703196154 +0300	commit: Creating the logic of logout on the user controller page
+7535ef4e1a677b1ffaba5e557bcdfa042566fd47 34a5c125f16d082a1ad3fa68c2498eb214a93369 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703273219 +0300	commit: Creating the conversion model of the project
+34a5c125f16d082a1ad3fa68c2498eb214a93369 2d087943afbccbe7118ad0419780edc489f102f9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703273243 +0300	commit: Creating the routes of conversion
+2d087943afbccbe7118ad0419780edc489f102f9 0170e19091908d471ed9e0c531df42e43979653c fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703273282 +0300	commit: Creating conversion controller file
+0170e19091908d471ed9e0c531df42e43979653c af8e0ddbf9c99296a65a276ec001b3e8cee8db85 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703280920 +0300	commit: Adding middleware and path on the entry point page
+af8e0ddbf9c99296a65a276ec001b3e8cee8db85 a6c028221b22bc960ecbd905053523cd51112ffc fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703280962 +0300	commit: Creating conversation on the controller page
+a6c028221b22bc960ecbd905053523cd51112ffc 4b8c3c108ab0d5b008c910d98f2da2b17316fbeb fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703281031 +0300	commit: Creating the routes for the conversion
+4b8c3c108ab0d5b008c910d98f2da2b17316fbeb eb44c8ca85f82ac77be1de7e788eec42f68831bd fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703281058 +0300	commit: Editing the file name
+eb44c8ca85f82ac77be1de7e788eec42f68831bd 89af5cd4a3ab20247c164725482cdc61c9fec75e fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976171 +0300	commit: deleting some unnecessary lines of codes
+89af5cd4a3ab20247c164725482cdc61c9fec75e 6f9fd3e770662751b7fea714c054dccd04ceedc9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976293 +0300	commit: Creating all logics of sign up user
+6f9fd3e770662751b7fea714c054dccd04ceedc9 be2c3810d1d9c632da441a526e9a6442144d4bd1 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976322 +0300	commit: Creating constant handlers
+be2c3810d1d9c632da441a526e9a6442144d4bd1 f4ad1f66586f34c0492d14196cb10921859bd265 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976387 +0300	commit: Creating all necessary models for user sign up
+f4ad1f66586f34c0492d14196cb10921859bd265 142eee6eeca1bb5b60b25775ab16dc839dc6e10d fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976473 +0300	commit: Commenting the all file to do other things
+142eee6eeca1bb5b60b25775ab16dc839dc6e10d 1a65a33b508e6d14907131f1c895bdfbc23c0292 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703976510 +0300	commit: Changing the function name
+1a65a33b508e6d14907131f1c895bdfbc23c0292 3639868fc34713b1f7adcd5c8a7599d75c488a6f fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703982767 +0300	commit: Get all users and single user
+3639868fc34713b1f7adcd5c8a7599d75c488a6f e18dd6179439a6011ba5c4dba16c8274bd66eeb6 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703982800 +0300	commit: Adding Middleware on server page
+e18dd6179439a6011ba5c4dba16c8274bd66eeb6 2e73fb8a538fc8669ab53830a548541825735ef9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703982834 +0300	commit: Doing the errorHandling Module
+2e73fb8a538fc8669ab53830a548541825735ef9 9fd4b2c683b397e64df31003f125092b835b03a8 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703982881 +0300	commit: Creating token validate handlers page
+9fd4b2c683b397e64df31003f125092b835b03a8 251adb08e6d593108aed9c802d5119bd599d6a74 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1703982913 +0300	commit: Creating user management routes
+251adb08e6d593108aed9c802d5119bd599d6a74 651a919ec6f22762c6c1f64a8a58dcfa2692a12a fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704047418 +0300	commit: Adding the logics of user update and delete
+651a919ec6f22762c6c1f64a8a58dcfa2692a12a 10220bf1a7feeb7040c056ecdcd7a6bb8c320761 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704047456 +0300	commit: Creating the routs of user update and delete
+10220bf1a7feeb7040c056ecdcd7a6bb8c320761 2345e5ed52d6319d1a991a9a7e8cbc403cc28736 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704047914 +0300	commit: Importing asyncHandler and json web token
+2345e5ed52d6319d1a991a9a7e8cbc403cc28736 b73649ae9e427bb056226c38e2cbb86ba7b4cb7b fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704048148 +0300	commit: Authorization for each router
+b73649ae9e427bb056226c38e2cbb86ba7b4cb7b 35742cf83c28726500d8d6426006a49bb0331ade fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704054869 +0300	commit: Creating JWT
+35742cf83c28726500d8d6426006a49bb0331ade b27acdaff6f61030af13b0969062e39dfa37a787 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704054964 +0300	commit: Setting up .env file
+b27acdaff6f61030af13b0969062e39dfa37a787 3da9a5a58cc91cd9e8d9bfddc9201ae8f3d296b9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704054997 +0300	commit: Adding token handler middleware
+3da9a5a58cc91cd9e8d9bfddc9201ae8f3d296b9 051258423685c423098239462fa95d8f0d361418 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704055032 +0300	commit: Adding middleware handler on entry point
+051258423685c423098239462fa95d8f0d361418 40e72c4784ed27e5b2d926bf14da7c754adeeb0e fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704055070 +0300	commit: Adding Status route on router
+40e72c4784ed27e5b2d926bf14da7c754adeeb0e a4ff06364c073777eecf1e0bd4cb8cd512474c41 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659053 +0300	commit: Adding middleware handler on the entry page
+a4ff06364c073777eecf1e0bd4cb8cd512474c41 0b1fa58fa8838aabec1e94e569c7bcfd8fe1e68e fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659136 +0300	commit: Debugging the jwt and adding the payload data
+0b1fa58fa8838aabec1e94e569c7bcfd8fe1e68e d045f22f1b76cff1791c721d0152532b6ed01d2a fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659172 +0300	commit: Creating token handler on the middleware
+d045f22f1b76cff1791c721d0152532b6ed01d2a bc654652c98f4471ad5b567a82e89300812e7d09 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659263 +0300	commit: Creating and giving access on the user management
+bc654652c98f4471ad5b567a82e89300812e7d09 0c1eea2121c53d50c96cd188aa77a1858c043878 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659306 +0300	commit: CReating route for status
+0c1eea2121c53d50c96cd188aa77a1858c043878 19c3e9c40b42973d6a2b04673b6fe30fbce4f613 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659361 +0300	commit: Creating for routes the user management
+19c3e9c40b42973d6a2b04673b6fe30fbce4f613 b7ddd6f1a5cdb38abe2f69d765faa31b6c271b4a fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704659409 +0300	commit: Creating model for the user management model
+b7ddd6f1a5cdb38abe2f69d765faa31b6c271b4a 81797e696be0d23d20dc161f5c6cc75f37ca002e fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909537 +0300	commit: Adding router on entry page
+81797e696be0d23d20dc161f5c6cc75f37ca002e c9f39ce95d6d2981ed45b625e3f928fd9e98cef5 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909599 +0300	commit: Writing the logic of skill controller
+c9f39ce95d6d2981ed45b625e3f928fd9e98cef5 2794a7ac8a5eca1d1707d2f323c45f6ad34ec0fe fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909650 +0300	commit: Uncommenting the access token data
+2794a7ac8a5eca1d1707d2f323c45f6ad34ec0fe 5e84151a296155363b24d19db9fea3ea684722ae fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909689 +0300	commit: Designing the model of the skill
+5e84151a296155363b24d19db9fea3ea684722ae 5644b58c3e0659149c57a04506e8a01e52531aa7 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909721 +0300	commit: Creating the skill routes
+5644b58c3e0659149c57a04506e8a01e52531aa7 60adbd8747f72ea2cc13d5a0681756cfae26b944 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909761 +0300	commit: Commenting the all logics of conversation
+60adbd8747f72ea2cc13d5a0681756cfae26b944 ceda9f64d7fd6fce743790dd7ec5780c850b711a fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909798 +0300	commit: Creating the router of the conversation page
+ceda9f64d7fd6fce743790dd7ec5780c850b711a 5cfcfd942ed083c4c23180e819af7d2d1b2b4f97 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704909859 +0300	commit: Commenting the model of conversation
+5cfcfd942ed083c4c23180e819af7d2d1b2b4f97 95f18d12ce1c3c349b5977a6126f2f8cc16bd766 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704910635 +0300	commit: Creating the model of message
+95f18d12ce1c3c349b5977a6126f2f8cc16bd766 04bfa11aa54b6ed8b69e1921236afc0662afed4a fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913414 +0300	commit: Creating routes for message
+04bfa11aa54b6ed8b69e1921236afc0662afed4a 7c72c6bde74c4d3d92251513c9bf72d80c4cc9a9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913451 +0300	commit: creating the logic of the message controller
+7c72c6bde74c4d3d92251513c9bf72d80c4cc9a9 148c834d5526f77c88e30c14aefca659ce846727 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913490 +0300	commit (amend): Adding the user id to the message model
+148c834d5526f77c88e30c14aefca659ce846727 839d9c6c8c7c31fa7e49e932d36bb008b4de68f0 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913551 +0300	commit: Creating the logic of message controller
+839d9c6c8c7c31fa7e49e932d36bb008b4de68f0 26b1b85e4f61c7b41fdb36708d41a8be1eca0063 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913583 +0300	pull --tags origin master: Merge made by the 'ort' strategy.
+26b1b85e4f61c7b41fdb36708d41a8be1eca0063 26d04e0afcc1af73b607da1110058d8e8bc1e723 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704913729 +0300	commit: Doing get method by Id
+26d04e0afcc1af73b607da1110058d8e8bc1e723 b87b88396f4c506e49f53f690ae0e55297ee5c88 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704914104 +0300	commit: Getting messages using id
+b87b88396f4c506e49f53f690ae0e55297ee5c88 080924c376b8206ff35e04094d7b7dd8ccbfdd35 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704914885 +0300	commit: Creating the delete, update and get by id
+080924c376b8206ff35e04094d7b7dd8ccbfdd35 3e826567880a89865da04c1d1ed1abbc33ce37bb fullstackdevelopmentforall <abel.dereje94@gmail.com> 1704914925 +0300	commit: Creating routes for getting, deleting and updating
+3e826567880a89865da04c1d1ed1abbc33ce37bb 4ec94e8d63dafaa849fa7c2d62dd93291ec482eb fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708280197 +0300	commit: Adding order route on main page
+4ec94e8d63dafaa849fa7c2d62dd93291ec482eb d21b09fe714f1d0eae6c7325be6d362b62fb19c0 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708280297 +0300	commit: Creating the controller of order page
+d21b09fe714f1d0eae6c7325be6d362b62fb19c0 2a937c1e29d7b08cecc6c50571c3a0a739667149 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708280323 +0300	commit: Creating the model of order
+2a937c1e29d7b08cecc6c50571c3a0a739667149 0765d4673fadcceb141084264fa2df62fc5f990b fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708280368 +0300	commit: Creating the routes of order
+0765d4673fadcceb141084264fa2df62fc5f990b 8623eecc11487891ecd68391cb77a83656deaa84 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708280397 +0300	commit: Change the fila name to order
+8623eecc11487891ecd68391cb77a83656deaa84 38e4d67ac52efed1414e8b1fb0d26cf262d4e6f4 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708282943 +0300	commit: Adding the conversation middleware on the root fila
+38e4d67ac52efed1414e8b1fb0d26cf262d4e6f4 7256b65f5feb198460f2c53afec6607529ddffc3 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708282972 +0300	commit: Adding the logic of the conversation file
+7256b65f5feb198460f2c53afec6607529ddffc3 72cc348dc5cbebbcdb09654c933213e6be00ce2c fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708283014 +0300	commit: Adding the model or the database of conversation
+72cc348dc5cbebbcdb09654c933213e6be00ce2c 3638458f8ed191b58b37da237529da0673c427ca fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708283078 +0300	commit (amend): Creating the model or the database of review
+3638458f8ed191b58b37da237529da0673c427ca 343e779ae45b357e295bc7843c0eb86bfffb29b4 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708283100 +0300	commit: Creating the router of conversations
+343e779ae45b357e295bc7843c0eb86bfffb29b4 9f37ba15f1bf6b3b82477d992f524ec92e6184af fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708707312 +0300	commit: Changing the file name
+9f37ba15f1bf6b3b82477d992f524ec92e6184af 19a065d372783a677ab1a5293cfc81f78a2d754f fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708707341 +0300	pull --tags origin master: Merge made by the 'ort' strategy.

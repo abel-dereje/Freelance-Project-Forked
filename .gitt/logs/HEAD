@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 f2cde9b1fe50cdb308b542cdf71b738b308de3f6 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708704824 +0300	commit (initial): Creating client side
-f2cde9b1fe50cdb308b542cdf71b738b308de3f6 7cc2832ed6ece6ce45cc01b93cf7183ed621268d fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708706783 +0300	rebase (start): checkout tmp
-7cc2832ed6ece6ce45cc01b93cf7183ed621268d 7cc2832ed6ece6ce45cc01b93cf7183ed621268d fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708706783 +0300	rebase (finish): returning to refs/heads/master
-7cc2832ed6ece6ce45cc01b93cf7183ed621268d a355aad915cdd6a9e1e78c3901c3eb6d6c42dda9 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708707792 +0300	commit: Creating the client side
-a355aad915cdd6a9e1e78c3901c3eb6d6c42dda9 e9a8b61f8c2c9f5ff8f63bdd042cabf44ad7f340 fullstackdevelopmentforall <abel.dereje94@gmail.com> 1708707891 +0300	pull origin master: Merge made by the 'ort' strategy.
